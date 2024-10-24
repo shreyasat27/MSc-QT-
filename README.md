@@ -1,1 +1,1 @@
-# MSc-QT-
+# MSc-Quantum Technologies 
